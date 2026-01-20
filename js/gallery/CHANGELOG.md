@@ -1,5 +1,18 @@
 # @gradio/gallery
 
+## 0.16.2
+
+### Fixes
+
+- [#12684](https://github.com/gradio-app/gradio/pull/12684) [`1373713`](https://github.com/gradio-app/gradio/commit/1373713646e34078188265eb07c4bff5a048e9a2) - Migrate Gallery to Svelte 5.  Thanks @freddyaboulton!
+
+### Dependency updates
+
+- @gradio/atoms@0.20.1
+- @gradio/upload@0.17.4
+- @gradio/client@2.0.3
+- @gradio/video@0.20.1
+
 ## 0.16.1
 
 ### Dependency updates

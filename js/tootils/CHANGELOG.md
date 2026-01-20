@@ -1,5 +1,15 @@
 # @self/tootils
 
+## 0.9.0
+
+### Features
+
+- [#12781](https://github.com/gradio-app/gradio/pull/12781) [`c64d861`](https://github.com/gradio-app/gradio/commit/c64d8613e96dedf80e47ad03a26a1b94a5761a5a) - Split e2e tests into independent apps.  Thanks @freddyaboulton!
+
+### Fixes
+
+- [#12472](https://github.com/gradio-app/gradio/pull/12472) [`9a2bc0d`](https://github.com/gradio-app/gradio/commit/9a2bc0dacdd2b3f670fae815093c61ad08eee7e3) - Re-enable SSR mode.  Thanks @pngwn!
+
 ## 0.8.2
 
 ### Dependency updates
